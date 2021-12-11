@@ -10,37 +10,37 @@
     "newBranch":"true",
     "icons": [
       {
-        "src": "assets/icons/icon.png",
+        "src": "https://github.com/cenzwong/OpenPWA/blob/main/assets/icons/icon.png?raw=true",
         "type": "image/png",
         "sizes": "48x48"
       },
       {
-        "src": "assets/icons/icon.png",
+        "src": "https://github.com/cenzwong/OpenPWA/blob/main/assets/icons/icon.png?raw=true",
         "type": "image/png",
         "sizes": "96x96"
       },
       {
-        "src": "assets/icons/icon.png",
+        "src": "https://github.com/cenzwong/OpenPWA/blob/main/assets/icons/icon.png?raw=true",
         "sizes": "128x128",
         "type": "image/png"
       },
       {
-        "src": "assets/icons/icon.png",
+        "src": "https://github.com/cenzwong/OpenPWA/blob/main/assets/icons/icon.png?raw=true",
         "sizes": "144x144",
         "type": "image/png"
       },
       {
-        "src": "assets/icons/icon.png",
+        "src": "https://github.com/cenzwong/OpenPWA/blob/main/assets/icons/icon.png?raw=true",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "assets/icons/icon.png",
+        "src": "https://github.com/cenzwong/OpenPWA/blob/main/assets/icons/icon.png?raw=true",
         "type": "image/png",
         "sizes": "256x256"
       },
       {
-        "src": "assets/icons/icon.png",
+        "src": "https://github.com/cenzwong/OpenPWA/blob/main/assets/icons/icon.png?raw=true",
         "type": "image/png",
         "sizes": "512x512"
       }

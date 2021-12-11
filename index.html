@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Title</title>
+    <link rel="canonical" href="https://cenzwong.github.io/pwa/" />
+    <style type="text/css">
+    /* --- application CSS here --- */
+    *{
+      background-color: #F5F4F0;
+      font-family: Georgia, serif;
+    }
+    </style>
+</head>
+<body>
+  <h1>Content</h1>
+  <script>
+  // register ServiceWorker, remember to use absolute path!
+  if (navigator.serviceWorker) {
+    navigator.serviceWorker.register('/pwa/sw.js', {scope: '/pwa/'})
+  }
+  
+  // --- Application code here ---
+  </script>
+  <p>hello</p>
+</body>
+</html>

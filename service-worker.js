@@ -3,11 +3,11 @@ let cacheName = "OpenGithubPWA";// 👈 any unique name
 let filesToCache = [
   "/pwa/", // 👈 your repository name , both slash are important
   "service-worker.js",
-  "js/main.js",
-  "js/install-handler.js",
-  "js/settings.js",
-  "css/main.css",
-  "assets/icons/icon.png",
+  "https://raw.githubusercontent.com/cenzwong/OpenPWA/main/js/main.js",
+  "https://raw.githubusercontent.com/cenzwong/OpenPWA/main/js/install-handler.js",
+  "https://raw.githubusercontent.com/cenzwong/OpenPWA/main/js/settings.js",
+  "https://raw.githubusercontent.com/cenzwong/OpenPWA/main/css/main.css",
+  "https://github.com/cenzwong/OpenPWA/blob/main/assets/icons/icon.png?raw=true",
   "manifest.json"
   // add your assets here 
   // ❗️❕donot add config.json here ❗️❕
